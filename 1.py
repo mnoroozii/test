@@ -7,7 +7,7 @@
 import os
 import shutil
 
-source_directory_path = r'C:\project\all'
+source_directohry_path = r'C:\project\all'
 destination_directory = r'C:\project\all_cvt'
 counter = 1
 
